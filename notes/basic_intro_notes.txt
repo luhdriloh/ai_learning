@@ -1,0 +1,43 @@
+a. intelligent agent
+
+- an ai program is called an intelligent agent
+	
+
+
+
+b. sensors
+
+- an intelligent agents means through which it can can percieve the state of 	it's environment is called it's sensors
+
+
+
+
+c. actuators	
+
+- means through which an intelligent agent changes its state is called 	
+	actuators
+
+
+
+
+d. control policy for the agent
+
+- the function that maps sensors to actuators is called the control policy
+
+
+
+
+e. perception action cycle 
+
+- the loop of the intelligent agent where it gets information from the 
+	environment with sensors and then acts upon it with actuators and back and
+	forth is called the perception action cycle 
+
+
+
+
+example
+- in finance we have lots of ai. first our intelligent agent is called the 
+	trading agent. the environment would be the stock market. sensors would be 
+	news items changes in the prices of different commodities or assets. and 
+	actuators would be buying or selling these different assets
